@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### this should be a link to github pages
+For full documentation visit [sdg.dev](https://sdg.dev).
